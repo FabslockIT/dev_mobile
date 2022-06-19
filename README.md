@@ -1,2 +1,2 @@
-# dev_mobil
-dev_mobil avec android studio
+# dev_mobile
+dev_mobile avec android studio
