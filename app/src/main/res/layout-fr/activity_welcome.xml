@@ -29,7 +29,7 @@
         android:layout_below="@+id/textView1"
         android:layout_centerInParent="true"
         android:layout_gravity="center_horizontal"
-        android:text="Administrator"
+        android:text="@string/admin"
         android:textColor="#000000"
         android:textSize="30sp"
         tools:layout_editor_absoluteX="114dp"
@@ -57,17 +57,16 @@
         tools:layout_editor_absluteX="114dp" />
 
     <ImageView
-        android:layout_width="188dp"
-        android:layout_height="158dp"
+        android:layout_width="181dp"
+        android:layout_height="152dp"
         android:layout_gravity="center"
         android:background="#FFFFFF"
         android:src="@drawable/webox1" />
-
     <ImageView
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_gravity="center"
-        android:src="@drawable/ang"/>
+        android:src="@drawable/fr"/>
 
     <EditText
         android:layout_width="wrap_content"
@@ -89,7 +88,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="Designed by Webox connect"
+            android:text="@string/signup"
             android:textColor="#000000" />
 
         <TextView
@@ -99,7 +98,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="15dp"
             android:layout_marginBottom="15dp"
-            android:text="All rights reserved"
+            android:text="@string/designed"
             android:textColor="#000000" />
     </LinearLayout>
 

@@ -1,3 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<resources></resources>
+<resources>
+    <string name="app_name">webox</string>
+    <string name="titre">Bienvenue</string>
+    <string name="admin">Administrateur</string>
+    <string name="username">Nom d\'utilisateur ou Email</string>
+    <string name="passw">Mot de paase</string>
+    <string name="signup">Creer un compte webox connect</string>
+    <string name="forgot">Mot de passe oublié?</string>
+    <string name="designed">Conçu par Webox connect</string>
+    <string name="reservd">Tous droits réservés</string>
+    <string name="login">connexion</string>
+    <string name="lang">Votre langue est en Francais</string>
+</resources>

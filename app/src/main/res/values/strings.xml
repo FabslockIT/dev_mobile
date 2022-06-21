@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">webox</string>
+    <string name="titre">Welcome</string>
+    <string name="admin">Administrator</string>
+    <string name="username">Username or Email</string>
+    <string name="passw">Password</string>
+    <string name="signup">Sign Up for webox connect</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="designed">Designed by Webox connect</string>
+    <string name="reservd">All rights reserved</string>
+    <string name="login">log in</string>
+    <string name="lang">Your language is in English</string>
+
 </resources>

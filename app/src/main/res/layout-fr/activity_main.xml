@@ -53,16 +53,16 @@
 
     <Button
         android:id="@+id/connexion"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="120dp"
         android:layout_marginTop="35dp"
         android:layout_marginRight="120dp"
         android:backgroundTint="#267BD8"
-        android:padding="10dp"
+        android:padding="9dp"
         android:text="@string/login"
         android:textColor="#ffffff"
-        android:textSize="16sp"
+        android:textSize="14sp"
         android:textStyle="bold" />
 
     <RelativeLayout
